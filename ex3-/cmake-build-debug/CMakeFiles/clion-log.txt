@@ -1,0 +1,15 @@
+/snap/clion/175/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shirataitel/CLionProjects/ex3
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    hello.s
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: your_project_name
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shirataitel/CLionProjects/ex3/pstring.h
+
+/home/shirataitel/CLionProjects/ex3/run_main-test.c
+stdio.h
+-
+pstring.h
+/home/shirataitel/CLionProjects/ex3/pstring.h
+
