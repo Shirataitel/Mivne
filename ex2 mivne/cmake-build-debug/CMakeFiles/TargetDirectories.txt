@@ -1,0 +1,5 @@
+/home/shirataitel/CLionProjects/ex2 mivne/cmake-build-debug/CMakeFiles/untitled22.dir
+/home/shirataitel/CLionProjects/ex2 mivne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shirataitel/CLionProjects/ex2 mivne/cmake-build-debug/CMakeFiles/untitled2.dir
+/home/shirataitel/CLionProjects/ex2 mivne/cmake-build-debug/CMakeFiles/untitled21.dir
+/home/shirataitel/CLionProjects/ex2 mivne/cmake-build-debug/CMakeFiles/edit_cache.dir

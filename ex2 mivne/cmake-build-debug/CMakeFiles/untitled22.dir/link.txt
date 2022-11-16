@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled22.dir/main.c.o CMakeFiles/untitled22.dir/ex2.c.o -o untitled22 
